@@ -1,7 +1,7 @@
 # data-organizers
 Set of data organizer codes
 # alphabetizer
-Alphabitizes set of data based on first letter
+Alphabitizes set of data based on first letter.
 # paragraph analyser
 Gives word count, characters with and without spaces of a paragraph
 # randomizer
