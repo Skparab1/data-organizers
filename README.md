@@ -13,8 +13,8 @@
 -Short term storage code
 -Short term storage program, create folders within program, store and delete text data in folders, search for data in folders, limit 12 folders, all data erased when program restarted.
 # todo organiser
-Short term storage code
-Same as database^ except runs on command line interface
+-Short term storage code
+-Same as database^ except runs on command line interface
 # text file todo organizer
-Long term storage code
-Same as todo organizer^ except stores data in text file, data is not erased after program is rerun.
+-Long term storage code
+-Same as todo organizer^ except stores data in text file, data is not erased after program is rerun.
