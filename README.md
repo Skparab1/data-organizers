@@ -1,11 +1,11 @@
 # data-organizers
-Set of data organizer codes
+-Set of data organizer codes
 # alphabetizer
-Data organizing code
-Alphabitizes set of data based on first letter.
+-Data organizing code
+-Alphabitizes set of data based on first letter.
 # paragraph analyzer
-Data analyzing code
-Gives word count, characters with and without spaces of a paragraph
+-Data analyzing code
+-Gives word count, characters with and without spaces of a paragraph
 # randomizer
 Random data generator code
 Prints a random word from set of inputted data
