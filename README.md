@@ -1,5 +1,5 @@
 # data-organizers
--Set of data organizer codes
+- Set of data organizer codes
 # alphabetizer
 -Data organizing code
 -Alphabitizes set of data based on first letter.
