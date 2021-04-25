@@ -8,9 +8,9 @@
 - Gives word count, characters with and without spaces of a paragraph
 # randomizer
 - Random data generator code
--Prints a random word from set of inputted data
+- Prints a random word from set of inputted data
 # database
--Short term storage code
+- Short term storage code
 -Short term storage program, create folders within program, store and delete text data in folders, search for data in folders, limit 12 folders, all data erased when program restarted.
 # todo organiser
 -Short term storage code
