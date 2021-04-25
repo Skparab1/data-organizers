@@ -4,10 +4,10 @@
 - Data organizing code
 - Alphabitizes set of data based on first letter.
 # paragraph analyzer
--Data analyzing code
--Gives word count, characters with and without spaces of a paragraph
+- Data analyzing code
+- Gives word count, characters with and without spaces of a paragraph
 # randomizer
--Random data generator code
+- Random data generator code
 -Prints a random word from set of inputted data
 # database
 -Short term storage code
